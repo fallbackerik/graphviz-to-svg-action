@@ -11,3 +11,4 @@ I hope to create diagrams like the following mindmap with it:
  - ubuntu image (is there a debian one?)
  - Python3
  - probably this lib: https://pypi.org/project/pydot/
+ - for animation this lib: https://pypi.org/project/drawsvg/ (this might end up becoming another action tho)
