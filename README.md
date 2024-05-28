@@ -2,6 +2,10 @@
 
 Github Action that takes a dot file as input and generates a svg.
 
+I hope to create diagrams like the following mindmap with it:
+
+![https://graphviz.org/Gallery/twopi/happiness.html](https://graphviz.org/Gallery/twopi/happiness.svg)
+
 # Tools used
 
  - ubuntu image (is there a debian one?)
