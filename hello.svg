@@ -1,0 +1,7 @@
+#Created by Bruce Colby at Codepen: https://codepen.io/BruceBC/pen/PPPNQV
+
+<svg width="250" height="250">
+  <circle cx="125" cy="125" r="100" fill="#aeaeae" />
+  <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="100px" font-family="Arial" dy=".3em">BC</text>
+Sorry, your browser does not support inline SVG.
+</svg>
